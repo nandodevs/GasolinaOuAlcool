@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1084684603417",
+    "firebase_url": "https://combustivel-624cf.firebaseio.com",
+    "project_id": "combustivel-624cf",
+    "storage_bucket": "combustivel-624cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084684603417:android:526dd1550ac32435",
+        "android_client_info": {
+          "package_name": "combustivel.bugdroiddevs.com.gasolinaoualcool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084684603417-sp88j5rsnkfur834ccc2r6p30jlqt334.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "combustivel.bugdroiddevs.com.gasolinaoualcool",
+            "certificate_hash": "913e23546d68ee0d4511a036a41f9781879667f8"
+          }
+        },
+        {
+          "client_id": "1084684603417-irlagklrdpc3rac9uben9iovqjfd9k9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOxWkumuTRCpRzrEjXU_7Cc0nPmJgbq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084684603417-irlagklrdpc3rac9uben9iovqjfd9k9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
