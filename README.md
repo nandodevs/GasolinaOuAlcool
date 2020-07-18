@@ -2,6 +2,4 @@
  
  Um projeto simples utilizando Java no Android Studio de um aplicativo para calcular qual o melhor combustível utilizar na hora de abastecer, álcool ou gasolina.
  
-[![](Print)](https://i.imgur.com/Cs8xDg0.jpg)
-
- 
+[![Ok](https://i.imgur.com/Cs8xDg0.jpg "Ok")](https://i.imgur.com/Cs8xDg0.jpg "Ok")
