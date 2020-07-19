@@ -4,8 +4,6 @@
     package="combustivel.bugdroiddevs.com.combustivel">
 
     <application
-
-
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="Gasolina ou Álcool"
@@ -13,7 +11,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
-        <activity android:name=".MainActivity"
+        <activity android:name=".InicialActivity"></activity>
+        <activity
+            android:name=".MainActivity"
             android:theme="@style/meu_tema">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,9 +21,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+
         <meta-data
             android:name="com.google.android.gms.ads.APPLICATION_ID"
-            android:value="ca-app-pub-7436173854092434~6905008560"/>
+            android:value="ca-app-pub-7436173854092434~6905008560" />
     </application>
 
 </manifest>
